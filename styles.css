@@ -88,3 +88,17 @@ body {
     
 
 }
+footer p {
+    font-size: 14px;
+    text-align: center;  
+    color: rgb(167, 183, 197);  
+}
+footer {
+    background-color: rgba(0, 0, 0, 0.582);
+    height: 100px;
+    width: 1024px;
+    
+    padding-top: 50px;
+    padding-top: 50px; 
+    
+}
